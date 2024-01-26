@@ -1,0 +1,24 @@
+.container {
+	/* width: 880px;
+  height: 800px; */
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	gap: 20px;
+	padding-left: 65px;
+	padding-right: 65px;
+	margin-top: 40px;
+}
+
+.cards_container {
+	border: 3px solid red;
+	border-radius: 15px;
+	box-shadow: 6, 6, 7, 20px;
+	width: 200px;
+	height: 365px;
+}
+
+h2 {
+	color: black;
+	box-shadow: 6, 6, 7, 20px;
+}

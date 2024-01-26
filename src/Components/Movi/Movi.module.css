@@ -1,0 +1,13 @@
+.container_car {
+  border: 3px solid red;
+  border-radius: 15px;
+  box-shadow: 6, 6, 7,  20px ;
+  width: 200px;
+  height: 335px;
+}
+
+.container_car img{
+  width: 200px;
+  height: 230px;
+  border-radius: 15px;
+}
